@@ -1,0 +1,10 @@
+pi@raspberrypi:~/pyCamStream/master $ ids_simple_live_qtwidgets_cpp 
+qt5ct: using qt5ct plugin
+pi@raspberrypi:~/pyCamStream/master $ 
+pi@raspberrypi:~/pyCamStream/master $ 
+pi@raspberrypi:~/pyCamStream/master $ ids_simple_live_qtwidgets_python 
+/usr/bin
+qt5ct: using qt5ct plugin
+/usr/bin/ids_simple_live_qtwidgets_python: line 10:  2686 Bus error               python3 $PEAK_PATH/../local/src/ids/samples/peak/python/simple_live_qtwidgets/simple_live_qtwidgets.py $@
+pi@raspberrypi:~/pyCamStream/master $ 
+
